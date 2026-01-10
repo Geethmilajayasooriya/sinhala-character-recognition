@@ -95,9 +95,7 @@ result = model.predict(img_array)[0]
 label = label_dict[result]
 label_status.config(text='PREDICTED CHARACTER:' + label)
 
-▶️ Running the App
-character_ui.py
-
+▶️ Run
 
 Then:
 
